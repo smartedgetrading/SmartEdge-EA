@@ -107,3 +107,31 @@ SmartEdge EA
 ├── Risk Engine
 ├── Exit Manager
 └── Trade Logging
+
+Each component works together to maintain structure, discipline, and safety across all trades.
+
+---
+
+# 8. Updates & Improvements  
+SmartEdge EA receives ongoing updates, which may include:
+
+- Enhanced filters  
+- Improved risk models  
+- Better volatility handling  
+- Advanced exit refinements  
+- Performance optimizations  
+- New optional features  
+
+All updates prioritize **stability and long-term reliability**.
+
+---
+
+# 9. Support  
+For assistance or questions:
+
+📩 team@smartedgetrading.net  
+🌐 https://smartedgetrading.net
+
+---
+
+© SmartEdge Trading — Documentation v1.0.0
