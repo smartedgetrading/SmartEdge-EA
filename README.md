@@ -1,119 +1,155 @@
-SmartEdge EA — Multi-Currency MT4 Expert Advisor (Focused on Controlled Drawdown & Long-Term Stability)
+# SmartEdge EA — Multi-Currency MT4 Expert Advisor  
+### Controlled Drawdown • Long-Term Stability • Professional Risk Engineering
 
-SmartEdge EA is a professionally engineered MT4 trading system designed to achieve consistent, controlled results through:
+SmartEdge EA is a professionally engineered **multi-currency MT4 trading system** built with a risk-first philosophy.  
+It is designed for traders who value **capital protection, consistency, and transparent performance** over gambling-style grid or martingale systems.
 
-📉 Low & controlled drawdown
+SmartEdge EA is **not** a typical “high-risk, high-return” EA.  
+It is created for real traders who want stable, long-term portfolio growth.
 
-🔄 Multi-currency diversification
+---
 
-🧠 Robust risk-first algorithmic design
+## 🔍 Key Features
 
-📊 Transparent, data-driven performance tracking
+### **1. Multi-Currency Trading Engine**
+SmartEdge trades multiple Forex pairs simultaneously, distributing market exposure and reducing single-pair risk.
 
-SmartEdge is not a “high-risk, high-return” gimmick EA.
-It is built for real traders who want long-term portfolio safety and stability.
+### **2. Controlled Drawdown Architecture**
+The core design prioritizes:
+- Risk stability  
+- Survival during high volatility  
+- Long-term account protection  
 
-🔍 Key Features
-1. Multi-Currency Trading Engine
+### **3. Smart Signal Logic (Configurable)**
+SmartEdge includes multiple industry-standard filters:
+- RSI-based confirmations  
+- EMA trend validation  
+- MACD signal logic  
+- VW-MACD (Volume-Weighted MACD)  
+- Optional momentum filters  
 
-SmartEdge EA can trade multiple Forex pairs from one MT4 terminal, distributing risk across markets instead of concentrating exposure on a single currency.
+All parameters are customizable from the **Master EA**.
 
-2. Controlled Drawdown Logic
+### **4. Secure Licensing System**
+SmartEdge EA includes a license validation system bound to:
+- Email  
+- License key  
+- MT4 account number  
 
-The EA focuses on survival first, profit second — similar to how professional funds operate.
+This ensures safe and fair usage for all clients.
 
-3. Smart Grid + Indicator Logic (Configurable)
+---
 
-RSI-based entries
+## 📉 Live Performance & Transparency
 
-EMA trend filters
-
-MACD signal validation
-
-VW-MACD logic
-
-Optional momentum filters
-
-All risk settings are customizable.
-
-4. License-Based Access for MT4
-
-SmartEdge EA includes a secure licensing system that binds activation to your MT4 account.
-
-📉 Live Performance & Transparency
-
-Full transparency reports, performance summaries, and verified tracking:
+We maintain **fully transparent**, data-driven performance tracking:
 
 👉 https://smartedgetrading.net/performance
 
-📘 Official Documentation & Guides
+---
 
-To understand and safely evaluate Expert Advisors, we provide several educational resources:
+## 📘 Official Educational Guides & Blog
 
-Beginner Guide:
-https://smartedgetrading.net/blog/mt4-expert-advisor-beginner-guide
+To help traders make informed decisions, we also provide in-depth educational content:
 
-How to Test an MT4 EA Safely:
-https://smartedgetrading.net/blog/how-to-test-mt4-ea-demo-to-live
+- Beginner Guide to Expert Advisors  
+  https://smartedgetrading.net/blog/mt4-expert-advisor-beginner-guide
 
-EA Risk Management & Drawdown Control:
-https://smartedgetrading.net/blog/mt4-ea-risk-management-lot-size-drawdown
+- How to Test an EA Safely  
+  https://smartedgetrading.net/blog/how-to-test-mt4-ea-demo-to-live
 
-Multi-Currency vs Single Pair EA Design:
-https://smartedgetrading.net/blog/multi-currency-vs-single-pair-mt4-eas
+- Risk Management & Drawdown Control  
+  https://smartedgetrading.net/blog/mt4-ea-risk-management-lot-size-drawdown
 
-These help traders avoid common mistakes and evaluate EAs responsibly.
+- Multi-Currency vs Single-Pair EA Design  
+  https://smartedgetrading.net/blog/multi-currency-vs-single-pair-mt4-eas
 
-🛠 Installation (MT4)
+- Why SmartEdge Focuses on Controlled Drawdown  
+  https://smartedgetrading.net/blog/why-smartedge-ea-focuses-on-controlled-drawdown
 
-Place the EA file into:
-MQL4/Experts/
+These resources help traders evaluate EAs responsibly and avoid common mistakes.
 
-Restart MT4.
+---
 
-Attach SmartEdge EA to a chart.
+# 🛠 Installation Guide (MT4)
 
-Ensure “Allow live trading” + DLL imports are enabled.
+### **1️⃣ Copy the EA file**
+Place your `.ex4` file into:
+MT4 → File → Open Data Folder → MQL4 → Experts
 
-Enter your license key when prompted.
+### **2️⃣ Restart MT4**
+This loads the EA into the terminal.
 
-⚙️ System Requirements
+### **3️⃣ Attach SmartEdge EA to any chart**
+Recommended chart: EURUSD M1 or M5.
 
-MetaTrader 4 (build 1350 or later)
+### **4️⃣ Enable required permissions**
+✓ Allow algo trading  
+✓ Allow DLL imports  
 
-Windows, macOS (via Wine), or Linux VPS
+### **5️⃣ Enter your license details**
+The EA will ask for:
+- Email  
+- License key  
 
-Minimum recommended deposit: $200 – $500
+---
 
-Works on ECN, Raw Spread, and Standard accounts
+# ⚙️ System Requirements
 
-🧠 Why SmartEdge EA Was Created
+- MetaTrader 4 (Build 1350+)
+- Windows or macOS/Linux via Wine  
+- VPS strongly recommended
+- Minimum recommended deposit: **$200–$500**
+- Works on ECN, Raw, and Standard accounts
 
-Most Forex EAs focus on showing “big monthly profits” while hiding extreme drawdowns.
-SmartEdge was built to solve this problem and to:
+---
 
-Protect capital
+# 🧠 Why SmartEdge EA Was Created
 
-Survive extreme market conditions
+Most FX robots chase “big monthly returns” while hiding massive drawdowns.  
+SmartEdge EA was created with the opposite philosophy:
 
-Reduce large single-pair exposure
+✔ Protect capital  
+✔ Survive volatility  
+✔ Avoid catastrophic single-pair exposure  
+✔ Provide long-term, stable growth  
+✔ Bring institutional-style logic to retail MT4
 
-Provide long-term stable performance
+---
 
-This philosophy is explained in detail here:
-https://smartedgetrading.net/blog/why-smartedge-ea-focuses-on-controlled-drawdown
+# 📚 Developer Documentation (GitHub Docs)
 
-📩 Contact & Support
+SmartEdge provides technical documentation for transparency and user support.
 
-Official website:
+### `/docs` folder:
+- **security.md** — Security model & licensing  
+- **compatibility.md** — Supported brokers & environment  
+- **support.md** — Contact, reporting, ticket format  
+- **faq.md** — Common questions  
+- **troubleshooting.md** — Fixes for common MT4 issues  
+- **update-guide.md** — How users safely update to new versions  
+- **disclaimer.md** — Risk & legal disclaimer  
+
+Each file is designed for clarity, safety, and professional presentation.
+
+---
+
+# 📩 Contact & Support
+
+**Website**  
 https://smartedgetrading.net/
 
-Support email:
+**Email**  
 team@smartedgetrading.net
 
-Telegram Channel:
-https://web.telegram.org/a/?account=2#-1002982067886
+**Telegram Channel**  
+https://t.me/smartedgetrading
 
-📝 License
+We reply within **12–24 hours**.
 
-This project uses the MIT License, allowing open documentation while keeping the EA proprietary.
+---
+
+# 📝 License
+
+This repository is licensed under the **MIT License**, allowing open documentation while keeping the EA code proprietary.
+
